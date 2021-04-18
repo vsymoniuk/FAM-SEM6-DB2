@@ -6,6 +6,7 @@ from utils.CUI import cui
 
 def main():
     while True:
+        print()
         choice = cui.admin_menu()
 
         if choice == 1:

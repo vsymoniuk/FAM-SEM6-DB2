@@ -16,6 +16,7 @@ def main():
 
     while True:
         if not signed_in(current_user_id):
+            print()
             choice = cui.user_auth_menu()
 
             if choice == 1:
@@ -28,18 +29,19 @@ def main():
                 print("Wrong option selection. Enter any key to try again...")
 
         else:
+            print()
             choice = cui.user_app_menu()
 
             if choice == 1:
                 message = input("Enter message text: ")
-                receiver = input("Enter recipient username: ")
+                receiver = input("Enter receiver username: ")
 
-                if user_service.create_message(message, current_user_id, recipient):
+                if user_service.create_message(message, current_user_id, receiver):
                     print("Sending message...")
             elif choice == 2:
                 user_service.print_messages(current_user_id)
             elif choice == 3:
-                user_service.print_messages_statistics
+                user_service.print_messages_statistics(current_user_id)
             elif choice == 4:
                 user_service.sign_out(current_user_id)
                 current_user_id = -1
