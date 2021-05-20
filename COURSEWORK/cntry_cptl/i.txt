@@ -1,0 +1,8 @@
+Iceland,Reykjavik
+India,New Delhi
+Indonesia,Jakarta
+Iran,Tehran
+Iraq,Baghdad
+Ireland,Dublin
+Israel,Jerusalem
+Italy,Rome

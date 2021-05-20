@@ -1,0 +1,3 @@
+Haiti,Port-au-Prince
+Honduras,Tegucigalpa
+Hungary,Budapest

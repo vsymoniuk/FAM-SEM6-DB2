@@ -1,0 +1,12 @@
+Taiwan,Taipei
+Tajikistan,Dushanbe
+Tanzania,Dodoma
+Thailand,Bangkok
+Timor-Leste,Dili
+Togo,Lomé
+Tonga,Nuku'alofa
+Trinidad and Tobago,Port of Spain
+Tunisia,Tunis
+Turkey,Ankara
+Turkmenistan,Ashgabat
+Tuvalu,Funafuti

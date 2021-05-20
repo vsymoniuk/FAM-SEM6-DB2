@@ -1,0 +1,7 @@
+Uganda,Kampala
+Ukraine,Kyiv
+United Arab Emirates,Abu Dhabi
+United Kingdom,London
+United States of America,Washington, D.C.
+Uruguay,Montevideo
+Uzbekistan,Tashkent

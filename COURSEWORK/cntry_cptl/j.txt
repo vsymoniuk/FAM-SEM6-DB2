@@ -1,0 +1,3 @@
+Jamaica,Kingston
+Japan,Tokyo
+Jordan,Amman

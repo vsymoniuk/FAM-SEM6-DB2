@@ -1,0 +1,6 @@
+Kazakhstan,Nur-Sultan
+Kenya,Nairobi
+Kiribati,Tarawa
+Kosovo,Pristina
+Kuwait,Kuwait City
+Kyrgyzstan,Bishkek

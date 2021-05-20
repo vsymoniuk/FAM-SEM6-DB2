@@ -1,0 +1,3 @@
+Romania,Bucharest
+Russia,Moscow
+Rwanda,Kigali

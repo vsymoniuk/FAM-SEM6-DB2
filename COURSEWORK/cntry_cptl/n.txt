@@ -1,0 +1,10 @@
+Namibia,Windhoek
+Nauru,Yaren District
+Nepal,Kathmandu
+Netherlands,Amsterdam
+New Zealand,Wellington
+Nicaragua,Managua
+Niger,Niamey
+Nigeria,Abuja
+North Korea,Pyongyang
+Norway,Oslo

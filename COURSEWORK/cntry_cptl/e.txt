@@ -1,0 +1,7 @@
+Ecuador,Quito
+Egypt,Cairo
+El Salvador,San Salvador
+Equatorial Guinea,Malabo
+Eritrea,Asmara
+Estonia,Tallinn
+Ethiopia,Addis Ababa

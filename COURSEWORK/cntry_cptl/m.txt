@@ -1,0 +1,17 @@
+Madagascar,Antananarivo
+Malawi,Lilongwe
+Malaysia,Kuala Lumpur
+Maldives,Male
+Mali,Bamako
+Malta,Valletta
+Marshall Islands,Majuro
+Mauritania,Nouakchott
+Mauritius,Port Louis
+Mexico,Mexico City
+Micronesia,Palikir
+Moldova,Chisinau
+Monaco,Monaco
+Mongolia,Ulaanbaatar
+Montenegro,Podgorica
+Morocco,Rabat
+Mozambique,Maputo

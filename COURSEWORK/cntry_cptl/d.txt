@@ -1,0 +1,4 @@
+Denmark,Copenhagen
+Djibouti,Djibouti (city)
+Dominica,Roseau
+Dominican Republic,Santo Domingo

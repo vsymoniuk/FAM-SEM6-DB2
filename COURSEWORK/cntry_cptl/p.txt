@@ -1,0 +1,10 @@
+Pakistan,Islamabad
+Palau,Ngerulmud
+Palestine,Jerusalem
+Panama,Panama City
+Papua New Guinea,Port Moresby
+Paraguay,Asunción
+Peru,Lima
+Philippines,Manila
+Poland,Warsaw
+Portugal,Lisbon

@@ -1,0 +1,9 @@
+Laos,Vientiane
+Latvia,Riga
+Lebanon,Beirut
+Lesotho,Maseru
+Liberia,Monrovia
+Libya,Tripoli
+Liechtenstein,Vaduz
+Lithuania,Vilnius
+Luxembourg,Luxembourg

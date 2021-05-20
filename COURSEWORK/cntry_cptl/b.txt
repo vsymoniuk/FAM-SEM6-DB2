@@ -1,0 +1,14 @@
+Bahamas,Nassau
+Bahrain,Manama
+Bangladesh,Dhaka
+Barbados,Bridgetown
+Belarus,Minsk
+Belgium,Brussels
+Belize,Belmopan
+Benin,Porto-Novo
+Bhutan,Thimphu
+Botswana,Gaborone
+Brazil,Brasilia
+Bulgaria,Sofia
+Burkina Faso,Ouagadougou
+Burundi,Gitega

@@ -1,0 +1,4 @@
+Vanuatu,Port Vila
+Vatican City (Holy See),Vatican City
+Venezuela,Caracas
+Vietnam,Hanoi

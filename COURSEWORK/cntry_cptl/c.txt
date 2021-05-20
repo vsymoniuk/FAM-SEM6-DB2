@@ -1,0 +1,18 @@
+Cabo Verde,Praia
+Cambodia,Phnom Penh
+Cameroon,Yaounde
+Canada,Ottawa
+Central African Republic,Bangui
+Chad,N'Djamena
+Chile,Santiago
+China,Beijing
+Colombia,Bogotá
+Comoros,Moroni
+Congo, Democratic Republic of the,Kinshasa
+Congo, Republic of the,Brazzaville
+Costa Rica,San Jose
+Cote d'Ivoire,Yamoussoukro
+Croatia,Zagreb
+Cuba,Havana
+Cyprus,Nicosia
+Czechia,Prague
